@@ -2,12 +2,6 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-```bash
-git clone https://github.com/nandwalritik/PayrollManagement
-cd PayrollManagement
-```
-
 ## Requirements
 
 - Any operating system (i.e. Linux, Windows, MacOS X)
